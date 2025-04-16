@@ -30,6 +30,9 @@ We use this categorical data encoding technique when the features are nominal(do
 • Boxcox method
 • Yeojohnson method
 
+# developed By: SUDHARSAN S
+# registeration number:212224040335
+        
 # CODING AND OUTPUT:
 ```
 import pandas as pd
@@ -207,9 +210,7 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/412009ec-272f-47b6-83cd-f5d7444e0ef2)
 
-# developed By: SUDHARSAN S
-# registeration number:212224040335
-        
+
       
 # RESULT:  
 
