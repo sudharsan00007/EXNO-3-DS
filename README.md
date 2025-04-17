@@ -30,8 +30,14 @@ We use this categorical data encoding technique when the features are nominal(do
 • Boxcox method
 • Yeojohnson method
 
+
+
 # developed By: SUDHARSAN S
+
+
 # registeration number:212224040335
+
+
         
 # CODING AND OUTPUT:
 ```
